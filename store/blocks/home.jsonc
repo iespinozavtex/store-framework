@@ -1,7 +1,8 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row"
+      // "flex-layout.row",
+      "shelf"
     ]
   },
   "flex-layout.row":{
@@ -15,7 +16,7 @@
     "children": [
       "image#electronics",
       "image#major-appliance"
-    ]},
+    ]},  
 
   "image#electronics": {
     "props": {
